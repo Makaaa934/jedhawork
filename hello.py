@@ -1,0 +1,3 @@
+a = "bonjour !"
+print(a)
+
